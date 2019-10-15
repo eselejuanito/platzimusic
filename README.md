@@ -1,5 +1,8 @@
 # platzimusic
 
+Para consultar el proyecto, ingresa aqui:
+https://eselejuanito.github.io/platzimusic/index.html
+
 > A Vue.js project
 
 ## Build Setup
